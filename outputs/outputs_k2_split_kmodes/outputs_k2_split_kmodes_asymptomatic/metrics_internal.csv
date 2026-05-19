@@ -1,0 +1,2 @@
+group,n,k,silhouette_hamming,davies_bouldin_ordinal,calinski_harabasz_ordinal,avg_within_hamming
+asymptomatic,882,2,0.27,2.56,124.04,0.42
