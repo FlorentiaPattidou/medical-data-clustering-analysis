@@ -1,0 +1,13 @@
+subset,cluster,rule_index,rule
+KPrototypes — Asymptomatic,0,1,jba <= 2.5
+KPrototypes — Asymptomatic,0,2,dwa > 0.5 & plarea <= 1.5
+KPrototypes — Asymptomatic,0,3,plarea <= 0.5
+KPrototypes — Asymptomatic,0,4,gsm > 0.5
+KPrototypes — Asymptomatic,0,5,dwa > 0.5 & stenosis <= 1.5
+KPrototypes — Asymptomatic,1,1,gsm <= 0.5 & jba > 2.5 & stenosis > 1.5
+KPrototypes — Asymptomatic,1,2,gsm <= 0.5 & jba > 2.5 & plarea > 0.5 & stenosis <= 0.5
+KPrototypes — Asymptomatic,1,3,dwa <= 0.5 & jba > 2.5 & plarea > 1.5
+KPrototypes — Asymptomatic,1,4,ctiastr > 0.5 & dwa <= 0.5 & gsm <= 0.5 & plarea > 0.5
+KPrototypes — Asymptomatic,1,5,ctiastr <= 0.5 & gsm > 0.5 & jba > 2.5 & plarea > 1.5 & stenosis <= 1.5
+KPrototypes — Asymptomatic,1,6,ctiastr > 0.5 & jba > 2.5 & plarea > 1.5 & stenosis > 0.5
+KPrototypes — Asymptomatic,1,7,ctiastr <= 0.5 & dwa <= 0.5 & gsm > 0.5 & jba > 2.5 & stenosis <= 1.5

@@ -1,0 +1,28 @@
+============================================================
+KPrototypes — Asymptomatic
+RULES FOR CLUSTER 1 vs REST
+============================================================
+
+Number of rules found: 7
+
+Rule 1:
+gsm <= 0.5 & jba > 2.5 & stenosis > 1.5
+
+Rule 2:
+gsm <= 0.5 & jba > 2.5 & plarea > 0.5 & stenosis <= 0.5
+
+Rule 3:
+dwa <= 0.5 & jba > 2.5 & plarea > 1.5
+
+Rule 4:
+ctiastr > 0.5 & dwa <= 0.5 & gsm <= 0.5 & plarea > 0.5
+
+Rule 5:
+ctiastr <= 0.5 & gsm > 0.5 & jba > 2.5 & plarea > 1.5 & stenosis <= 1.5
+
+Rule 6:
+ctiastr > 0.5 & jba > 2.5 & plarea > 1.5 & stenosis > 0.5
+
+Rule 7:
+ctiastr <= 0.5 & dwa <= 0.5 & gsm > 0.5 & jba > 2.5 & stenosis <= 1.5
+
