@@ -1,0 +1,22 @@
+============================================================
+KModes — Full Dataset
+RULES FOR CLUSTER 0 vs REST
+============================================================
+
+Number of rules found: 5
+
+Rule 1:
+jba <= 0.5
+
+Rule 2:
+jba <= 2.5 & plarea <= 0.5
+
+Rule 3:
+gsm > 1.5
+
+Rule 4:
+jba <= 2.5 & plarea > 1.5
+
+Rule 5:
+ctiastr <= 0.5 & plarea <= 0.5
+
