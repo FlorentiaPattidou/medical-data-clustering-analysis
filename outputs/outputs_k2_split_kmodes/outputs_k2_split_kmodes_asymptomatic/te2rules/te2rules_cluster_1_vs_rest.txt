@@ -1,0 +1,10 @@
+============================================================
+KModes — Asymptomatic
+RULES FOR CLUSTER 1 vs REST
+============================================================
+
+Number of rules found: 1
+
+Rule 1:
+plarea <= 1.5 & plarea > 0.5
+

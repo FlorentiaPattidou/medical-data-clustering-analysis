@@ -1,0 +1,4 @@
+subset,cluster,rule_index,rule
+KModes — Asymptomatic,0,1,plarea <= 0.5
+KModes — Asymptomatic,0,2,plarea > 1.5
+KModes — Asymptomatic,1,1,plarea <= 1.5 & plarea > 0.5
