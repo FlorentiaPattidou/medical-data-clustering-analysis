@@ -1,0 +1,2 @@
+group,n_runs,pairwise_ari_mean,pairwise_ari_min,pairwise_ari_max
+asymptomatic,20,1.00,1.00,1.00
