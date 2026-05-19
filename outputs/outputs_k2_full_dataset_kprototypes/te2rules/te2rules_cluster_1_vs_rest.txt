@@ -1,0 +1,34 @@
+============================================================
+KPrototypes — Full Dataset
+RULES FOR CLUSTER 1 vs REST
+============================================================
+
+Number of rules found: 9
+
+Rule 1:
+dwa <= 0.5 & jba > 2.5
+
+Rule 2:
+ctiastr <= 0.5 & dwa > 0.5 & gsm <= 1.5 & jba > 2.5 & plarea > 1.5
+
+Rule 3:
+ctiastr > 0.5 & gsm <= 0.5 & jba > 2.5 & plarea <= 1.5 & plarea > 0.5 & stenosis > 0.5
+
+Rule 4:
+gsm <= 0.5 & jba > 2.5 & stenosis > 1.5
+
+Rule 5:
+ctiastr > 0.5 & jba > 2.5 & plarea > 1.5 & stenosis > 1.5
+
+Rule 6:
+gsm <= 0.5 & jba > 2.5 & plarea > 1.5
+
+Rule 7:
+ctiastr <= 0.5 & jba > 2.5 & plarea > 1.5 & stenosis <= 1.5 & stenosis > 0.5
+
+Rule 8:
+jba > 2.5 & plarea > 1.5 & stenosis <= 0.5
+
+Rule 9:
+ctiastr > 0.5 & gsm > 0.5 & jba > 2.5 & plarea <= 1.5 & stenosis <= 1.5
+
