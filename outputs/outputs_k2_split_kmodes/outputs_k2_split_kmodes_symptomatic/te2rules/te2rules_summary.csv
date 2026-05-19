@@ -1,0 +1,10 @@
+subset,cluster,rule_index,rule
+KModes — Symptomatic,0,1,gsm <= 0.5
+KModes — Symptomatic,0,2,jba > 1.5 & stenosis <= 1.5
+KModes — Symptomatic,0,3,jba <= 0.5 & stenosis <= 1.5
+KModes — Symptomatic,0,4,gsm > 1.5 & jba > 2.5
+KModes — Symptomatic,0,5,gsm > 1.5 & jba <= 1.5 & jba > 0.5 & stenosis <= 1.5 & stenosis > 0.5
+KModes — Symptomatic,1,1,gsm > 0.5 & jba <= 1.5 & jba > 0.5
+KModes — Symptomatic,1,2,gsm <= 1.5 & gsm > 0.5 & stenosis > 1.5
+KModes — Symptomatic,1,3,jba <= 1.5 & stenosis > 1.5
+KModes — Symptomatic,1,4,gsm > 0.5 & jba <= 2.5 & stenosis > 1.5

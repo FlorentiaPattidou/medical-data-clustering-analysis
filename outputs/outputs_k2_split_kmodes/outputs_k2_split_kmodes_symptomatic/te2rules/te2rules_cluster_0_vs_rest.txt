@@ -1,0 +1,22 @@
+============================================================
+KModes — Symptomatic
+RULES FOR CLUSTER 0 vs REST
+============================================================
+
+Number of rules found: 5
+
+Rule 1:
+gsm <= 0.5
+
+Rule 2:
+jba > 1.5 & stenosis <= 1.5
+
+Rule 3:
+jba <= 0.5 & stenosis <= 1.5
+
+Rule 4:
+gsm > 1.5 & jba > 2.5
+
+Rule 5:
+gsm > 1.5 & jba <= 1.5 & jba > 0.5 & stenosis <= 1.5 & stenosis > 0.5
+
