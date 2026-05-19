@@ -1,0 +1,2 @@
+group,n_runs,pairwise_ari_mean,pairwise_ari_min,pairwise_ari_max
+full,20,0.6922663893023783,0.29001048240922117,1.0

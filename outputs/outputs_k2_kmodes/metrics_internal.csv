@@ -1,0 +1,2 @@
+group,n,k,silhouette_hamming,davies_bouldin_ordinal,calinski_harabasz_ordinal,avg_within_hamming
+full,996,2,0.3001472281266292,1.9679242478735646,187.67344975265272,0.45188089115111457
